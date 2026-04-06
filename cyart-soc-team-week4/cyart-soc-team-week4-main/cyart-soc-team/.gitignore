@@ -1,0 +1,20 @@
+# Screenshots directories (add actual screenshots here)
+screenshots/
+*.png
+*.jpg
+*.jpeg
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Evidence files (sensitive — store separately, reference by hash)
+*.pcap
+*.evtx
+*.img
+*.raw
+
+# Temporary files
+*.tmp
+*.bak
+~$*
